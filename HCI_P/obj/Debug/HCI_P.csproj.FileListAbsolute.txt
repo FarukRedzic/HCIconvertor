@@ -1,0 +1,12 @@
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\bin\Debug\HCI_P.exe
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\obj\Debug\HCI_P.LoadingForm.resources
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\obj\Debug\HCI_P.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\obj\Debug\HCI_P.csproj.GenerateResource.Cache
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\bin\Debug\Accord.dll.config
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\bin\Debug\HCI_P.exe.config
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\obj\Debug\HCI_P.exe
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\obj\Debug\HCI_P.pdb
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\bin\Debug\HCI_P.pdb
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\obj\Debug\HCI_P.frmMain.resources
+c:\users\faruk\documents\visual studio 2015\Projects\HCI_P\HCI_P\obj\Debug\HCI_P.frmMatrica.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\HCI_P\HCI_P\obj\Debug\HCI_P.csprojResolveAssemblyReference.cache
